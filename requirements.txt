@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+PyPDF2
+python-docx
+spacy
+scikit-learn
+joblib
+transformers
+torch
